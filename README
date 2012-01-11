@@ -1,0 +1,6 @@
+This is a Quiz Application i wrote back in 2007. It uses parallel port for interfacing the buzzer switches.
+I have used IO.dll from geekhideout (http://www.geekhideout.com/iodll.shtml) to talk to the parallel port.
+The application also requires Adobe Shockwave Player to be installed as it uses a lot of flash animations.
+The application was used in the National Level Quiz Competition conducted during our technical events Brainwaves.
+It was fun to watch the application being used in front of a lot of audience, where, it ran without any glitch.
+Anyone who wants to use the application or wish to develop further , please contact me, i would be glad to help.
